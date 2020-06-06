@@ -1,5 +1,5 @@
 # Recent Posts
-
+https://jaspreetsm21.github.io/Portfolio/
 # [Kickstarter Sucess Rate: Data Science Project Overview](https://github.com/Jaspreetsm21/Kickstarter_Funding)
  10 min read
  
